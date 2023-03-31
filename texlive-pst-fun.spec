@@ -1,6 +1,6 @@
 Name:		texlive-pst-fun
 Version:	17909
-Release:	1
+Release:	2
 Summary:	Draw "funny" objects with PSTricks
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fun
