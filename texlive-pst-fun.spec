@@ -3,7 +3,7 @@ Version:	17909
 Release:	2
 Summary:	Draw "funny" objects with PSTricks
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fun
+URL:		https://www.ctan.org/tex-archive/graphics/pstricks/contrib/pst-fun
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-fun.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-fun.doc.r%{version}.tar.xz
